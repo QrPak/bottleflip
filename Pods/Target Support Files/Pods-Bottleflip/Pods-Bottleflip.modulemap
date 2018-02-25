@@ -1,0 +1,6 @@
+framework module Pods_Bottleflip {
+  umbrella header "Pods-Bottleflip-umbrella.h"
+
+  export *
+  module * { export * }
+}
